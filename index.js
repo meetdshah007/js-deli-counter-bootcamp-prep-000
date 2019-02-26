@@ -17,4 +17,5 @@ function currentLine(katzDeliLine) {
   for(let i=0;i<katzDeliLine.length;i++){
     nums += `${i===0? '':', '}${i+1}. ${katzDeliLine[i]}`
   }
+  return nums;
 }
