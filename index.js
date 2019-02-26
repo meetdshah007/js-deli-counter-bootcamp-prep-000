@@ -5,3 +5,7 @@ function takeANumber(num, name){
 function nowServing(current) {
   
 }
+
+function currentLine(current) {
+  
+}
