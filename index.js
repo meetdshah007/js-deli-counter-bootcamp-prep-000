@@ -5,10 +5,10 @@ function takeANumber(katzDeliLine, name){
   return `Welcome, ${name}. You are number ${katzDeliLine.length - 1} in line.`;
 }
 
-function nowServing(current) {
+function nowServing(katzDeliLine) {
   
 }
 
-function currentLine(current) {
+function currentLine(katzDeliLine) {
   
 }
